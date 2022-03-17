@@ -2,34 +2,30 @@
   <b>Samuel Mugane</b>
 </h1>
 
-Hello! I'm Samuel Mugane, a Django Developer living in Nairobi, Kenya. I am currently learning React.js for my frontend stack.
+Hello! I'm Samuel Mugane, a Django Developer living in Nairobi, Kenya. I am currently learning React.js for my frontend stack. I enjoy building web apps using Django. I'm also a gaming enthusiast, I like first person shooting games like Crisis, COD and Tom Clancy's ghost recon. We can connect through my socials linked below for project collaborations. 
 
 <br>
 
-```python
-class SamuelMugane():
-    
-  def __init__(self):
-    self.name = "Samuel Mugane";
-    self.username = "mugane-dj";
-    self.location = "Nairobi, Kenya";
-    self.twitter = "@mugane_";
-    self.dev_profile = "https://dev.to/roguecode25";
-  
-  def __str__(self):
-    return self.name
+## Socials
+<a href="https://twitter.com/mugane_">![twitter](https://user-images.githubusercontent.com/85606106/158755901-bc316260-805d-4e5f-99c7-c6243ffd4436.png)</a>
+<a href="muganes25@gmail.com">![gmail (1)](https://user-images.githubusercontent.com/85606106/158756216-3497a918-dff1-45ed-b93b-fe547dd4cec5.png)</a>
+<a href="https://discord.com/channels/@me">![discord](https://user-images.githubusercontent.com/85606106/158757144-a951104b-112d-44b0-8ac4-4fcce39fd1cb.png)</a>
 
-if __name__ == '__main__':
-    me = SamuelMugane()
-```
+## Tech Stack
+![django (11)](https://user-images.githubusercontent.com/85606106/158759593-4f21523d-28e5-465d-b5e9-4bf62f474e4c.png)
+![bootstrap (2)](https://user-images.githubusercontent.com/85606106/158756474-7a7c18bc-096e-4622-90e7-99a66b11629b.png)
+![react](https://user-images.githubusercontent.com/85606106/158756486-f0b9a3da-0343-4a9c-b284-a8833332da2b.png)
+![postgresql](https://user-images.githubusercontent.com/85606106/158756497-8ca47d6c-4573-4cee-99e6-07fa0f25fc6b.png)
+![heroku](https://user-images.githubusercontent.com/85606106/158756512-a08465e6-1241-47c2-acf6-99d736c41688.png)
+![amazon-aws](https://user-images.githubusercontent.com/85606106/158756542-f12278e5-a53b-4836-b2e9-a494b27e8d63.png)
 
 
 ## My Statistics
 
 <br/>
 <p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=mugane-dj&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=mugane-dj&theme=gruvbox&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=mugane-dj&show_icons=true&theme=radical&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=mugane-dj&theme=radical&hide_border=true" />
   </a>
 </p>
 <br>
