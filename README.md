@@ -4,13 +4,17 @@
 
 Hello! I'm Samuel Mugane, a Django Developer living in Nairobi, Kenya. I am currently learning React.js for my frontend stack. I enjoy building web apps using Django. I'm also a gaming enthusiast, I like first person shooting games like Crisis, COD and Tom Clancy's ghost recon. We can connect through my socials linked below for project collaborations. 
 
-<br>
-
 ## Socials
+<p>Click the icons below to view my social profiles.</p>
+
 <a href="https://twitter.com/mugane_">![twitter](https://user-images.githubusercontent.com/85606106/158755901-bc316260-805d-4e5f-99c7-c6243ffd4436.png)</a>
 <a href="muganes25@gmail.com">![gmail (1)](https://user-images.githubusercontent.com/85606106/158756216-3497a918-dff1-45ed-b93b-fe547dd4cec5.png)</a>
 <a href="https://discord.com/channels/@me">![discord](https://user-images.githubusercontent.com/85606106/158757144-a951104b-112d-44b0-8ac4-4fcce39fd1cb.png)</a>
 
+## Blog
+<p>Click the icon below to view my dev.to profile where I post my blogs.</p>
+
+<a href="https://dev.to/roguecode25">![feather-pen](https://user-images.githubusercontent.com/85606106/158761796-6a4bdcdb-2f97-4b6c-b530-b34884616165.png)</a> 
 ## Tech Stack
 ![django (11)](https://user-images.githubusercontent.com/85606106/158759593-4f21523d-28e5-465d-b5e9-4bf62f474e4c.png)
 ![bootstrap (2)](https://user-images.githubusercontent.com/85606106/158756474-7a7c18bc-096e-4622-90e7-99a66b11629b.png)
