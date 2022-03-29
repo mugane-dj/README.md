@@ -2,7 +2,7 @@
   <b>Samuel Mugane</b>
 </h1>
 
-Hello! I'm Samuel Mugane, a Django Developer living in Nairobi, Kenya. I am currently learning React.js for my frontend stack. I enjoy building web apps using Django. I'm also a gaming enthusiast, I like first person shooting games like Crisis, COD and Tom Clancy's ghost recon. We can connect through my socials linked below for project collaborations. 
+Hello! I am Samuel Mugane, a Django Developer living in Nairobi, Kenya. I am currently learning React.js for my frontend stack. I enjoy building web apps using Django. I'm also a gaming enthusiast, I like first person shooting games like Crisis, COD and Tom Clancy's ghost recon. We can connect through my socials linked below for project collaborations. 
 
 ## Socials
 <p>Click the icons below to view my social profiles.</p>
