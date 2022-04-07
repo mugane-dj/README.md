@@ -14,10 +14,8 @@ Hello! I am Samuel Mugane, a Django Developer living in Nairobi, Kenya. I am cur
 <p>Click the icon below to view my dev.to profile where I post my blogs.</p>
 
 <a href="https://dev.to/roguecode25">![feather-pen](https://user-images.githubusercontent.com/85606106/158761796-6a4bdcdb-2f97-4b6c-b530-b34884616165.png)</a><p> Blog Profile </p>
-## Tech Stack
+## Current Tech Stack
 ![django (11)](https://user-images.githubusercontent.com/85606106/158759593-4f21523d-28e5-465d-b5e9-4bf62f474e4c.png)
-![bootstrap (2)](https://user-images.githubusercontent.com/85606106/158756474-7a7c18bc-096e-4622-90e7-99a66b11629b.png)
-![react](https://user-images.githubusercontent.com/85606106/158756486-f0b9a3da-0343-4a9c-b284-a8833332da2b.png)
 ![postgresql](https://user-images.githubusercontent.com/85606106/158756497-8ca47d6c-4573-4cee-99e6-07fa0f25fc6b.png)
 ![heroku](https://user-images.githubusercontent.com/85606106/158756512-a08465e6-1241-47c2-acf6-99d736c41688.png)
 ![amazon-aws](https://user-images.githubusercontent.com/85606106/158756542-f12278e5-a53b-4836-b2e9-a494b27e8d63.png)
