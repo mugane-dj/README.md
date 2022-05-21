@@ -5,7 +5,7 @@
 Hello! I am Samuel Mugane, a Django Developer living in Nairobi, Kenya. I am currently learning React.js for my frontend stack. I enjoy building web apps using Django. I'm also a gaming enthusiast, I like first person shooting games like Crisis, COD and Tom Clancy's ghost recon. We can connect through my socials linked below for project collaborations. 
 
 ## Socials
-<p>Click the icons below to view my social profiles.</p>
+<p>Click the icons to view my social profiles.</p>
 
 <a href="https://twitter.com/mugane_">![twitter](https://user-images.githubusercontent.com/85606106/158755901-bc316260-805d-4e5f-99c7-c6243ffd4436.png)</a><p> Twitter </p>
 <a href="https://discord.com/channels/@me">![discord](https://user-images.githubusercontent.com/85606106/158757144-a951104b-112d-44b0-8ac4-4fcce39fd1cb.png)</a><p> Discord </p>
