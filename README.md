@@ -11,9 +11,7 @@ Hello! I am Samuel Mugane, a Django Developer living in Nairobi, Kenya. I am cur
 <a href="https://discord.com/channels/@me">![discord](https://user-images.githubusercontent.com/85606106/158757144-a951104b-112d-44b0-8ac4-4fcce39fd1cb.png)</a><p> Discord </p>
 
 ## Blog
-<p>Click the icon below to view my dev.to profile where I post my blogs.</p>
-
-<a href="https://dev.to/roguecode25">![feather-pen](https://user-images.githubusercontent.com/85606106/158761796-6a4bdcdb-2f97-4b6c-b530-b34884616165.png)</a><p> Blog Profile </p>
+<a href="https://dev.to/roguecode25">![dev (1)](https://user-images.githubusercontent.com/85606106/171671629-c5df72a7-44fe-49f4-8cdb-0b0cbcd1c152.png)</a><p> Blog Profile </p>
 
 ## Current Stack
 
@@ -31,4 +29,4 @@ Hello! I am Samuel Mugane, a Django Developer living in Nairobi, Kenya. I am cur
 </p>
 <br>
 
-Last Edited on: 17/04/2022
+Last Edited on: 2/06/2022
