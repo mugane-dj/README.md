@@ -14,12 +14,12 @@ Hello! I am Samuel Mugane, a Backend Developer living in Nairobi, Kenya. I am cu
 <a href="https://dev.to/roguecode25">![dev (2)](https://user-images.githubusercontent.com/85606106/171797976-293014fb-893d-4785-a007-450abd481f38.png)</a><p> Blog Profile </p>
 
 ## Current Stack
-
-![c (1)](https://user-images.githubusercontent.com/85606106/216021901-54c80564-e04b-4572-a949-e7f624479fa2.png)
+![c (2)](https://user-images.githubusercontent.com/85606106/216023081-e2193013-03e9-4b6c-a03a-6a34b7548fb3.png)
+![python](https://user-images.githubusercontent.com/85606106/216023453-945ff5b7-136c-4c25-a1a6-21a1c44cea9d.png)
 ![django (11)](https://user-images.githubusercontent.com/85606106/158759593-4f21523d-28e5-465d-b5e9-4bf62f474e4c.png)
 ![postgresql](https://user-images.githubusercontent.com/85606106/158756497-8ca47d6c-4573-4cee-99e6-07fa0f25fc6b.png)
-![heroku](https://user-images.githubusercontent.com/85606106/158756512-a08465e6-1241-47c2-acf6-99d736c41688.png)
 ![amazon-aws](https://user-images.githubusercontent.com/85606106/158756542-f12278e5-a53b-4836-b2e9-a494b27e8d63.png)
+![digital-ocean](https://user-images.githubusercontent.com/85606106/216023155-9589fbdc-0832-4cb9-950c-751d883b5a33.png)
 
 ## Stats
 <br/>
