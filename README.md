@@ -15,6 +15,7 @@ Hello! I am Samuel Mugane, a Backend Developer living in Nairobi, Kenya. I am cu
 
 ## Current Stack
 
+![c (1)](https://user-images.githubusercontent.com/85606106/216021901-54c80564-e04b-4572-a949-e7f624479fa2.png)
 ![django (11)](https://user-images.githubusercontent.com/85606106/158759593-4f21523d-28e5-465d-b5e9-4bf62f474e4c.png)
 ![postgresql](https://user-images.githubusercontent.com/85606106/158756497-8ca47d6c-4573-4cee-99e6-07fa0f25fc6b.png)
 ![heroku](https://user-images.githubusercontent.com/85606106/158756512-a08465e6-1241-47c2-acf6-99d736c41688.png)
