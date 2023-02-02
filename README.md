@@ -2,13 +2,7 @@
   <b>Samuel Mugane</b>
 </h1>
 
-Hello! I am Samuel Mugane, a Backend Developer living in Nairobi, Kenya. I am currently learning React for my frontend stack. I enjoy building web apps using Django. I'm also a gaming enthusiast, I like first person shooting games like Crisis, COD and Tom Clancy's ghost recon. We can connect through my socials linked below for project collaborations. 
-
-## Socials
-<p>Click the icons to view my social profiles.</p>
-
-<a href="https://twitter.com/mugane_">![twitter](https://user-images.githubusercontent.com/85606106/158755901-bc316260-805d-4e5f-99c7-c6243ffd4436.png)</a><p> Twitter </p>
-<a href="https://discord.com/channels/@me">![discord](https://user-images.githubusercontent.com/85606106/158757144-a951104b-112d-44b0-8ac4-4fcce39fd1cb.png)</a><p> Discord </p>
+Hello! I am Samuel Mugane, a Backend Developer living in Nairobi, Kenya. I am currently learning React for my frontend stack. I enjoy building web apps using Django. I'm also a gaming enthusiast, I like first person shooting games like Crisis, COD and Tom Clancy's ghost recon. We can connect through my socials linked for project collaborations. 
 
 ## Blog
 <a href="https://dev.to/roguecode25">![dev (2)](https://user-images.githubusercontent.com/85606106/171797976-293014fb-893d-4785-a007-450abd481f38.png)</a><p> Blog Profile </p>
