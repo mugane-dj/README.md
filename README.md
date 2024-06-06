@@ -4,9 +4,6 @@
 
 Hello! I am Samuel Mugane, a software engineer living in Nairobi, Kenya. An ALX Africa Alumnus. I enjoy building web apps using modern tech stacks across Python, TypeScript and Go. I'm also a gaming enthusiast, I like first person shooting games like Crisis, COD and Tom Clancy's ghost recon. We can connect through my socials linked on my profile for project collaborations. 
 
-## Blog
-<a href="https://dev.to/roguecode25">![dev (2)](https://user-images.githubusercontent.com/85606106/171797976-293014fb-893d-4785-a007-450abd481f38.png)</a><p> Blog Profile </p>
-
 ## Current Stack
 ![c (2)](https://user-images.githubusercontent.com/85606106/216023081-e2193013-03e9-4b6c-a03a-6a34b7548fb3.png)
 ![python](https://user-images.githubusercontent.com/85606106/216023453-945ff5b7-136c-4c25-a1a6-21a1c44cea9d.png)
