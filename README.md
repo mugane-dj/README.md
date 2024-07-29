@@ -2,7 +2,7 @@
   <b>Samuel Mugane</b>
 </h1>
 
-Hello! I am Samuel Mugane, a software engineer living in Nairobi, Kenya. An ALX Africa Alumnus. I enjoy building web apps using modern tech stacks across Python, TypeScript and Go. I'm also a gaming enthusiast, I like first person shooting games like Crisis, COD and Tom Clancy's ghost recon. We can connect through my socials linked on my profile for project collaborations. 
+Hello! I am Samuel Mugane, a software engineer living in Nairobi, Kenya. An ALX Africa Alumnus. I enjoy building web apps using modern tech stacks across Python and Go. I'm also a gaming enthusiast, I like first person shooting games like Crisis, COD and Tom Clancy's ghost recon. We can connect through my socials linked on my profile for project collaborations. 
 
 ## Current Stack
 ![c (2)](https://user-images.githubusercontent.com/85606106/216023081-e2193013-03e9-4b6c-a03a-6a34b7548fb3.png)
@@ -13,7 +13,6 @@ Hello! I am Samuel Mugane, a software engineer living in Nairobi, Kenya. An ALX 
 ![mongodb](https://github.com/mugane-dj/mugane-dj/assets/85606106/7a2048cb-925e-4a41-9331-cd118e2334f1)
 ![redis (1)](https://github.com/mugane-dj/mugane-dj/assets/85606106/6f35c335-ec43-4abf-b1ba-bf7412842b8c)
 ![docker (2)](https://github.com/mugane-dj/mugane-dj/assets/85606106/da4c7916-0611-489c-9b02-efd89888eceb)
-![typescript (3)](https://github.com/mugane-dj/mugane-dj/assets/85606106/08427348-2a84-42e9-94e5-5427544c7cfa)
 ![nodejs (1)](https://github.com/mugane-dj/mugane-dj/assets/85606106/5bc46c3e-ba14-4622-98b9-45181e9d5289)
 ![go (1)](https://github.com/mugane-dj/mugane-dj/assets/85606106/150701ad-2272-4e72-a3ab-e2a7d1b81191)
 
