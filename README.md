@@ -13,7 +13,6 @@ Hello! I am Samuel Mugane, a software engineer living in Nairobi, Kenya. An ALX 
 ![mongodb](https://github.com/mugane-dj/mugane-dj/assets/85606106/7a2048cb-925e-4a41-9331-cd118e2334f1)
 ![redis (1)](https://github.com/mugane-dj/mugane-dj/assets/85606106/6f35c335-ec43-4abf-b1ba-bf7412842b8c)
 ![docker (2)](https://github.com/mugane-dj/mugane-dj/assets/85606106/da4c7916-0611-489c-9b02-efd89888eceb)
-![nodejs (1)](https://github.com/mugane-dj/mugane-dj/assets/85606106/5bc46c3e-ba14-4622-98b9-45181e9d5289)
 ![go (1)](https://github.com/mugane-dj/mugane-dj/assets/85606106/150701ad-2272-4e72-a3ab-e2a7d1b81191)
 
 
